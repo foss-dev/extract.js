@@ -1,0 +1,30 @@
+{
+  "name": "extract",
+  "version": "1.0.0",
+  "description": "Extract helper for JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aligoren/extract.js.git"
+  },
+  "keywords": [
+    "extract",
+    "regex",
+    "javascript"
+  ],
+  "author": "Ali GOREN <goren.ali@yandex.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aligoren/extract.js/issues"
+  },
+  "homepage": "https://github.com/aligoren/extract.js#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-jest": "^23.6.0",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^23.6.0"
+  }
+}
